@@ -1,0 +1,17 @@
+.my-btn {
+    background-color: #3113ff;
+}
+
+.my-btn:hover {
+    background-color: #3113ff;
+    padding: 8px 16px;
+}
+
+.App {
+    min-height: 100vh;
+    background-color: #f7fcff;
+}
+
+.navbar-dark {
+    background-color : #3113ff;
+}
